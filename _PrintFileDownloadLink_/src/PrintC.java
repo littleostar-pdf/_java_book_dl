@@ -13,6 +13,8 @@ public class PrintC {
     private static final String _Java软件结构与数据结构_4版_130_ = "https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_Java%E8%BD%AF%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_4%E7%89%88_130_/src/file/_Java%E8%BD%AF%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_4%E7%89%88_130_.zip.001";
     private static final String _Java数据结构和算法_第二版_25_ ="https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95_%E7%AC%AC%E4%BA%8C%E7%89%88_25_/src/file/_Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95_%E7%AC%AC%E4%BA%8C%E7%89%88_25_.zip.001";
 
+    private static final String _算法导论_原书第3版_101_ = "https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA_%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88_101_/src/file/_%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA_%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88_101_.zip.001";
+
     public static void main(String[] args) {
 
 //        printFileDownloadLink(_算法第4版_181_,1, 19);
@@ -20,7 +22,8 @@ public class PrintC {
 //        printFileDownloadLink(_数据结构与算法分析_Java语言描述_第2版_37_, 1, 4);
 //        printFileDownloadLink(_图解数据结构_使用Java_247_, 1, 24);
 //        printFileDownloadLink(_Java软件结构与数据结构_4版_130_, 1, 13);
-        printFileDownloadLink(_Java数据结构和算法_第二版_25_, 1, 3);
+//        printFileDownloadLink(_Java数据结构和算法_第二版_25_, 1, 3);
+        printFileDownloadLink(_算法导论_原书第3版_101_,1,10);
     }
 
     private static void printFileDownloadLink(String firstLink, int startNum, int endNum) {
