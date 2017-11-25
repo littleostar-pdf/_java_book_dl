@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 当前类，针对7z分卷压缩
+ * 当前类，针对分卷压缩
  */
 public class PrintC {
 
@@ -12,7 +12,6 @@ public class PrintC {
     private static final String _图解数据结构_使用Java_247_ = "https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_%E5%9B%BE%E8%A7%A3%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_%E4%BD%BF%E7%94%A8Java_247_/src/file/_%E5%9B%BE%E8%A7%A3%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_%E4%BD%BF%E7%94%A8Java_247_.zip.001";
     private static final String _Java软件结构与数据结构_4版_130_ = "https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_Java%E8%BD%AF%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_4%E7%89%88_130_/src/file/_Java%E8%BD%AF%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84_4%E7%89%88_130_.zip.001";
     private static final String _Java数据结构和算法_第二版_25_ ="https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95_%E7%AC%AC%E4%BA%8C%E7%89%88_25_/src/file/_Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95_%E7%AC%AC%E4%BA%8C%E7%89%88_25_.zip.001";
-
     private static final String _算法导论_原书第3版_101_ = "https://github.com/dzetSharePdf/___JavaPdf_/raw/master/_%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA_%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88_101_/src/file/_%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA_%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88_101_.zip.001";
 
     public static void main(String[] args) {
