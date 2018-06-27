@@ -26,7 +26,7 @@
 
 > [part](https://github.com/dzet-share/_java_book_dl/blob/master/file/DS_A_in_Java_2th-584p-25M.rar)
 
-###### 数据结构与算法分析 Java语言描述
+###### 数据结构与算法分析 Java语言描述 原书第3版
 
 > [part](https://github.com/dzet-share/_java_book_dl/blob/master/file/DS_and_AA_in_Java-3th-413p-47m.rar)
 
@@ -55,7 +55,7 @@
     - part下载即可
 
  - 2 全pdf ==>需要软件 [git](https://gitforwindows.org/)
-    - ```git clone https://github.com/dzet-pdf/_javascript_book_dl.git```
+    - ```git clone https://github.com/dzet-pdf/_java_book_dl.git```
 
 
 ---
