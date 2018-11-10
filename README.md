@@ -49,14 +49,7 @@
 
 ---
 
-#### 下载 ==> 建议同一时间, 只下载2个 part文件. (part文件上限为70MB
-
- - 1 单pdf
-    - part下载即可
-
- - 2 全pdf ==>需要软件 [git](https://gitforwindows.org/)
-    - ```git clone https://github.com/dzet-pdf/_java_book_dl.git```
-
+###### 下载 ==> 建议同一时间, 只下载2个 part文件. (part文件上限为70MB
 
 ---
 
